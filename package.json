@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/mixer/webpack-bundle-compare.git"
   },
+  "bin": "npm run start",
   "keywords": [
     "webpack",
     "bundle",
